@@ -1,4 +1,4 @@
-# Cover time based integration by [@Sese-Schneider](https://www.github.com/Sese-Schneider)
+# Cover time based integration by [@CraftingGab](https://www.github.com/CraftingGab)
 A Home Assistant integration to control your cover based on time.
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg?style=for-the-badge)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Sese-Schneider&repository=ha-cover-time-based&category=integration)
@@ -10,8 +10,9 @@ A Home Assistant integration to control your cover based on time.
 [![GitHub Activity][commits-shield]][commits]
 
 This integration is based on [davidramosweb/home-assistant-custom-components-cover-time-based](https://github.com/davidramosweb/home-assistant-custom-components-cover-time-based/).
+And based on  [Sese-Schneider/ha-cover-time-based](https://github.com/Sese-Schneider/ha-cover-time-based)
 
-It improves the original integration by adding tilt control.
+It improves the original integration by adding tilt control and virtual Buttonpress.
 
 **Features:**
 
@@ -71,9 +72,6 @@ cover:
 | is_button_time         | int          | *Optional*					  | Delay from virtual Button press 				| 1	  |
 
 
-[commits-shield]: https://img.shields.io/github/commit-activity/y/Sese-Schneider/ha-cover-time-based.svg?style=for-the-badge
-[commits]: https://github.com/Sese-Schneider/ha-cover-time-based/commits/main
-[downloads-shield]: https://img.shields.io/github/downloads/Sese-Schneider/ha-cover-time-based/total.svg?style=for-the-badge
 [license-shield]: https://img.shields.io/github/license/Sese-Schneider/ha-cover-time-based.svg?style=for-the-badge
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg?style=for-the-badge
 [releases-shield]: https://img.shields.io/github/release/Sese-Schneider/ha-cover-time-based.svg?style=for-the-badge
