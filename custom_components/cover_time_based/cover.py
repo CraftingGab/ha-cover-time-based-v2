@@ -102,7 +102,7 @@ TILT_POSITION_SCHEMA = cv.make_entity_service_schema(
     }
 )
 
-DOMAIN = "cover_time_based"
+DOMAIN = "cover_time_based_v2"
 
 
 def devices_from_config(domain_config):
